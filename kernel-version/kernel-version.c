@@ -1,5 +1,4 @@
 //
-//  main.c
 //  kernel-version
 //
 //  Created by Pishu Mahtani on 2nd November 2023.
